@@ -1,4 +1,4 @@
-# local-library-api
+
 # 📚 Personal PDF Library API
 
 A simple Node.js API that acts as a personal library for serving PDF files from your local machine. Quickly access and view your PDFs without digging through folders — just boot up the server and search for the one you need.
